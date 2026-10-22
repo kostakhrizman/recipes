@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- סופר-מתכונים app icon: white chef hat on light blue -->
+  <rect width="512" height="512" fill="#1a93d0"/>
+  <g fill="#ffffff">
+    <circle cx="186" cy="236" r="76"/>
+    <circle cx="326" cy="236" r="76"/>
+    <circle cx="256" cy="186" r="92"/>
+    <rect x="178" y="226" width="156" height="118" rx="6"/>
+    <rect x="178" y="356" width="156" height="50" rx="12"/>
+  </g>
+  <g stroke="#1a93d0" stroke-width="9" stroke-linecap="round">
+    <path d="M218 286v44M256 280v50M294 286v44"/>
+  </g>
+</svg>
